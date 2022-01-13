@@ -1,11 +1,11 @@
 import this
 
-#Hi my name is Asia \n
+#Hi my name is Asia <br />
 I'm student who interest in Physics and Computer programming and try to be better everyday 
 
-Basic python - 100 %
-Numpy & Pandas - In progress
-Python for time series - In progress
-Quantative Finance - In progress
+Basic python - 100 % <br />
+Numpy & Pandas - In progress <br />
+Python for time series - In progress <br />
+Quantative Finance - In progress <br />
 
 --------------------------------------------------------------------------------------------

@@ -1,14 +1,11 @@
 import this
 
 #Hi my name is Asia
-#I'm student who interest in Physics and Computer programming
+I'm student who interest in Physics and Computer programming and try to be better everyday
 
-gender = input('Please enter your gender: ')
-def intro_welcome():
-  if gender = 'male':
-    print('Hello, bye bye')
-  elif gender = 'women':
-    print('Hello, girl are you single?')
-    
-print('Welcome to my profile')    
-  
+Basic python - 100 %
+Numpy & Pandas - In progress
+Python for time series - In progress
+Quantative Finance - In progress
+
+--------------------------------------------------------------------------------------------

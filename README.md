@@ -1,7 +1,7 @@
-import this
+<b>import this</b>
 
 #Hi my name is Asia <br />
-  I'm student who interest in Physics and Computer programming and try to be better everyday 
+  I'm student who interest in <b>Physics</b>, <b>Computer programming</b>, <b>Finance</b> and try to be better everyday.
 
 :rainbow: Basic python - 100 % <br />
 :hourglass_flowing_sand: Numpy & Pandas - In progress <br />
